@@ -32,7 +32,7 @@ Project posters are available [here](./Posters).
   - Demonstrated effectiveness of dual-domain learning through comprehensive ablation studies
 
 This paper has been accepted to the [International Joint Conference on Neural Networks (IJCNN) 2025](https://2025.ijcnn.org/).   
-[Click here to see the paper](https://ieeexplore.ieee.org).
+[Click here to see the paper](https://ieeexplore.ieee.org/document/11228631).
 
 
 #### 2. Enhancing Portfolio Optimization with Data Fusion and Machine Learning in Quantitative Finance (Outstanding Research Award Winner at SRD 2024, Wenzhou-Kean University)
